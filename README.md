@@ -1,6 +1,9 @@
-# Interactive-Financial-Analytics-System-for-Pakistan-Stock-Exchange-PSX-
-Abstract:
-The project titled “Interactive Financial Analytics System for Pakistan Stock Exchange (PSX)”, is an indigenously developed proof-of-concept-based prototype inspired by world-class financial analytical platforms that leverage the power of data sprouting from multiple sources affiliated with diverse financial instrument markets, ranging from equity markets to bond and futures markets. The Pakistan stock exchange is an integral component of Pakistan’s investment landscape, featuring an investor base of 600,000 investors, but the absence of a high-powered interactive analytical platform that could aid the investors in optimizing investment strategies impedes the ability of investors to leverage the power of data and maximize the gains. This project aims to tackle the same issue and render an interactive platform that could be leveraged by Pakistani investors to optimize investment strategies. The prototype is integrated with a time-series-based data set that undergoes computational operations subject to the domain of quant finance, which renders additional features that are employed in the final prototype to obtain a fully-functional portal demonstrating calibre and functionality that are above par with the functionalities rendered by conventional portals like PSX data hub and broker-enabled apps. 
+https://public.tableau.com/views/PSXDataAnalyticsPotralTableau/PSXProfileDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/PSXSectorCompanyWisePerformanceRiskAnalysis/StockMarketSectorPerformanceRiskAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/PSXSignalDashboard/SignalsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/PriceTrendsReturnsRiskDistribution/StockMarketAnalysisPriceTrendsReturnsRiskDistribution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 
 
 
